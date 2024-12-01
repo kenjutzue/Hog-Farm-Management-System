@@ -6,25 +6,25 @@ This project is free to download. Feel Free to download and modify my code the w
 
 ## Features
 
--Login/Logout
+- Login/Logout
 
--Dashboard
+- Dashboard
 
--Recent Pigs Added List
+- Recent Pigs Added List
 
--Manage Breeds (CRUD)
+- Manage Breeds (CRUD)
 
--Manage Pigs (CRUD)
+- Manage Pigs (CRUD)
 
--Manage Quarantine (CRUD)
+- Manage Quarantine (CRUD)
 
 ## How to Run
 
 **Requirements:**
 
--Download and Install any local web server such as XAMPP/WAMP.
+- Download and Install any local web server such as XAMPP/WAMP.
 
--Download the provided source code zip file. (download button is located below)
+- Download the provided source code zip file. (download button is located below)
 
 **Installation/Setup:**
 
