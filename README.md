@@ -1,8 +1,6 @@
 # Online Piggery Management System
 
-A simple project is entitled Online Piggery Management System. It has a system manages the piggery farm's records. The web application was developed using PHP and MySQL Database. The simple system contains CRUD Operation in each list in the database. The system stores the list of pig breeds and details. It also has a feature that can record the pigs of the farm under quarantine and these details include the reason why does the pig is under quarantine.
-
-This project is free to download. Feel Free to download and modify my code the way you desire. You might find something useful from this project and learn something for your own projects. This project was developed using PHP HTML, CSS, Javascript, and Bootstrap for the design.
+A simple project is entitled Online Piggery Management System. It has a system manages the piggery farm's records. The web application was developed using PHP and MySQL Database. The simple system contains CRUD Operation in each list in the database. The system stores the list of pig breeds and details. It also has a feature that can record the pigs of the farm under quarantine and these details include the reason why does the pig is under quarantine. This project was developed using PHP HTML, CSS, Javascript, and Bootstrap for the design.
 
 ## Features
 
