@@ -28,20 +28,20 @@ This project is free to download. Feel Free to download and modify my code the w
 
 **Installation/Setup:**
 
-1.Open your XAMPP/WAMP's Control Panel and start the "Apache" and "MySQL".
+1. Open your XAMPP/WAMP's Control Panel and start the "Apache" and "MySQL".
 
-2.Extract the downloaded source code file.
+2. Extract the downloaded source code file.
 
-3.If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
+3. If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
 
-4.Browse the PHPMyAdmin in a browser. i.e. <http://localhost/phpmyadmin>
+4. Browse the PHPMyAdmin in a browser. i.e. <http://localhost/phpmyadmin>
 
-5.create a new database naming "pig".
+5. create a new database naming "pig".
 
-6.Import the provided SQL file. The file is known as "pig.sql"
+6. Import the provided SQL file. The file is known as "pig.sql"
 located inside the "database" folder.
 
-7.Browse the Simple Online Piggery Management System in a browser. i.e. <http://localhost/pig>
+7. Browse the Simple Online Piggery Management System in a browser. i.e. <http://localhost/pig>
 
 ## Contributing
 
