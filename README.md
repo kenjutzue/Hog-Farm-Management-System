@@ -24,7 +24,7 @@ This project is free to download. Feel Free to download and modify my code the w
 
 - Download and Install any local web server such as XAMPP/WAMP.
 
-- Download the provided source code zip file. (download button is located below)
+- Download the provided source code zip file.
 
 **Installation/Setup:**
 
