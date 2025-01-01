@@ -39,7 +39,7 @@ A simple project is entitled Hog Farm Management System. It has a system manages
 6. Import the provided SQL file. The file is known as "pig.sql"
 located inside the "database" folder.
 
-7. Browse the Simple Online Piggery Management System in a browser. i.e. <http://localhost/pig>
+7. Browse the Hog Farm Management System in a browser. i.e. <http://localhost/pig>
 
 ## Contributing
 
