@@ -42,5 +42,7 @@ This Agreement shall be governed by and construed in accordance with the laws of
 This Agreement constitutes the entire agreement between Licensor and Licensee regarding the Software and supersedes all prior agreements and understandings, whether written or oral.
 
 Licensor: Kent Grefiel
+
 Address: Brgy. Tagbacan, Salcedo Eastern Samar 
+
 Date: January 2, 2025
