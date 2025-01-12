@@ -22,7 +22,7 @@ A simple project is entitled "Hog Farm Management Management System" . It has a 
 
 - Download and Install any local web server such as XAMPP/WAMP.
 
-- Download the provided source code zip file.
+- Download the provided source code in my zip file.
 
 **Installation/Setup:**
 
